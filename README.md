@@ -6,8 +6,8 @@ A minimal macOS menu bar app to track your SaaS revenue in real-time. Connect yo
 ![Swift](https://img.shields.io/badge/Swift-5.9+-orange?logo=swift)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-<p align="center">
-  <img src="screenshots/256.png" alt="MRR Bar in menu bar" width="400">
+<p align="left">
+  <img src="screenshots/256.png" alt="MRR Bar in menu bar" width="200">
 </p>
 
 ## Features
