@@ -7,7 +7,7 @@ A minimal macOS menu bar app to track your SaaS revenue in real-time. Connect yo
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 <p align="center">
-  <img src="screenshots/menubar.png" alt="MRR Bar in menu bar" width="400">
+  <img src="screenshots/256.png" alt="MRR Bar in menu bar" width="400">
 </p>
 
 ## Features
@@ -24,7 +24,6 @@ A minimal macOS menu bar app to track your SaaS revenue in real-time. Connect yo
 
 <p align="center">
   <img src="screenshots/popover.png" alt="Revenue popover" width="300">
-  <img src="screenshots/settings.png" alt="Settings" width="400">
 </p>
 
 ## Installation
@@ -41,8 +40,8 @@ Download the latest release from the [Releases](https://github.com/yourusername/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mrr-bar.git
-cd mrr-bar
+git clone https://github.com/muhammadanas0716/Revenue-Bar.git
+cd Revenue-Bar
 
 # Open in Xcode
 open "MRR Bar.xcodeproj"
@@ -131,11 +130,9 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 
 - [ ] Lemon Squeezy integration
 - [ ] Gumroad integration
-- [ ] Revenue charts/graphs
 - [ ] Multiple currency support
 - [ ] Menu bar revenue display option
 - [ ] Notifications for new sales
-- [ ] Export data to CSV
 
 ## License
 
